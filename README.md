@@ -1,5 +1,4 @@
-# AI-Powered-Smart-Onion-Storage
-Monitoring and environment control system
+# AI-Powered-Smart-Onion-Storage System
 This project is an affordable, solar-powered storage system that cuts onion spoilage by up to 50%. It automatically sorts out bad bulbs before loading, uses deep-stack sensors to catch hidden rot early, and triggers smart exhaust fans to keep storage piles cool, dry, and sprout-free.
 This repository consists of two reports regarding this project.
 Overall report explaining our approach to this problem and solution in great details
